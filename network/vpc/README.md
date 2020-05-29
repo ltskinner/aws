@@ -41,3 +41,13 @@ Main Point: NAT Instance can be used as `Bastion Server`
 * IGW: lets instances with public IPs access the internet
 * NAT: lets private instances access the internet
   * this is more for like updating software and whatnot
+
+## Security Groups
+
+Find your IP: [https://checkip.amazonaws.com/](https://checkip.amazonaws.com/)
+
+## Elastic IP
+
+Need this to actually connect to public subnet
+
+[https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html#d0e22943](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html#d0e22943)
