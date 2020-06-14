@@ -1,0 +1,4 @@
+# 
+SQLAlchemy
+sshtunnel
+psycopg2-binary
