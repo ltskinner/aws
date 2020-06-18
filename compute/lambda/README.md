@@ -3,7 +3,7 @@
 ## Event Expressions
 
 * rule()
-* [chron()](https://crontab.guru/)
+* [cron()](https://crontab.guru/)
 
 ## Dependency installation
 
