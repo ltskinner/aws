@@ -1,5 +1,10 @@
 # Lambda notes
 
+## Event Expressions
+
+* rule()
+* [chron()](https://crontab.guru/)
+
 ## Dependency installation
 
 * `-t ./` option
