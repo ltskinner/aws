@@ -1,5 +1,14 @@
 # AWS - Virtual Private Cloud (VPC)
 
+## When to use VPC
+
+* To connect to build data in an Amazon RDS
+* Query data in an Amazon ElastiCache cluster directly from tests
+* Interact with internal web services
+* Retrieve dependencies from an internal repo like custom PyPi
+* Access Amazon S3 to allow access through Amazon VPC only
+* Query external web services that require a fixed IP
+
 ## Creating a VPC
 
 Tutorial: [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateVPC.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateVPC.html)
