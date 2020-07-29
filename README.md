@@ -21,9 +21,6 @@ this was just like lambda
         /vpc
 ```
 
-
-
-
 ## Exam Resources
 
 * [https://tutorialsdojo.com/aws-cheat-sheets/](https://tutorialsdojo.com/aws-cheat-sheets/)
