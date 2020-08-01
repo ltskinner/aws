@@ -2,19 +2,19 @@
 
 ```
 /aws
-	  /compute
-		    /ec2
-		    /lambda
-	  /storage
-		    /s3
-	  /databases
-		    /dynamodb
-		    /rds
-	  /security
-		    /IAM
-    /network
-        /api_gateway
-        /vpc
+	/compute
+		/ec2
+		/lambda
+	/storage
+    /s3
+  /databases
+    /dynamodb
+		/rds
+	/security
+	   /IAM
+  /network
+    /api_gateway
+    /vpc
 ```
 
 ## Exam Resources
