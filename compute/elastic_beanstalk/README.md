@@ -55,3 +55,8 @@ On left side, go to 'Configuration'
 
 * Config
   * Capacity
+
+## Limits
+
+* [The source bundle's file size limit is 512 MB.](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-versions.html)
+* Default max number of versions is 200
